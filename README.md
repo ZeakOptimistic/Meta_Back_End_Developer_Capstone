@@ -19,6 +19,6 @@ These tasks are evaluated through a **peer review** submission.
 
 
 superuser:
-user: littlelemon_admin
-password: LL@2025_RestaurantAPI!
-token: 318c159a610961ceb1501f624f9ec0003f2cde54
+- user: littlelemon_admin
+- password: LL@2025_RestaurantAPI!
+- token: 318c159a610961ceb1501f624f9ec0003f2cde54
