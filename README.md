@@ -1,7 +1,5 @@
 ## 📌 Final Project Assessment Overview
 
-The final graded assessment consists of **three practical exercises** and **one graded quiz**.
-
 ### 🎯 Purpose of the Assessments
 The assessments are designed to:
 - Verify understanding of the **key learning objectives**.  
